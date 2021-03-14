@@ -1,0 +1,26 @@
+.signup__main__container{
+    display: flex;
+    /* background-color: cornflowerblue; */
+    background-image: url('../../assest/5162121.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.signup__form__container{
+    display: flex;
+    width:400px;
+    background-color: azure;
+    flex-direction: column;
+    border: 0px solid;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px;
+}
+.signup__form__register__btn{
+    margin-top: 20px;
+}
+.signup__main__genderlable{
+    margin-top : 10px;
+}

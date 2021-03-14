@@ -1,0 +1,24 @@
+.signin__main__container{
+    display: flex;
+    background-color: cornflowerblue;
+    background-image: url('../../assest/5006022.jpg');
+    background-repeat: no-repeat;
+    object-fit: cover;
+    
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.signin__form__container{
+    display: flex;
+    background-color: azure;
+    flex-direction: column;
+    width: 400px;
+    padding: 20px;
+    border: 0px solid;
+    border-radius: 20px 20px 20px 20px;
+}
+.signin__btn{
+    margin-top: 10px;
+}
